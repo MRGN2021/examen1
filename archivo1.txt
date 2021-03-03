@@ -1,0 +1,2 @@
+archivo1.txt
+Se añade texto al archivo1.txt
